@@ -83,6 +83,7 @@
                 </div>
                 <div class="links">
                   <a href="pesan">Pesan</a>
+                  <a href="coba1">Templating</a>
                   <a href="about">About</a>
                 </div>
             </div>
